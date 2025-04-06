@@ -2,7 +2,7 @@ export const LoginController=async()=>
 {
     try {
         
-    } catch (error) {
+    } catch (er) {
         
     }
 }
